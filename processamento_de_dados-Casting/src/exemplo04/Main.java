@@ -11,7 +11,7 @@ public class Main {
 		b = 2;
 		
 		// Casting = conversão explícita dos valores
-		// Colocando a palavra entre '()' em frente a expressão 
+		// Colocando a variável entre '()' em frente a expressão 
 		resultado = (double) a / b;
 		
 		System.out.println(resultado);

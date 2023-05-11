@@ -7,6 +7,8 @@ public class Main {
 		double a;
 		int b;
 		
+		// Casting = conversão explícita dos valores
+		// Colocando a variável entre '()' em frente a expressão
 		a = 5.0;
 		b = (int) a;
 		
